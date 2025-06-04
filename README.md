@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 Sure! Here's a **beautiful, emoji-enhanced step-by-step guide** to building a feature-rich **React + Vite + Tailwind CSS TodoList** app with:
@@ -198,3 +199,7 @@ You now have a **beautifully responsive**, full-featured **TodoList app** with:
 - 🌓 Clean Dark/Light Theme  
 
 Let me know if you'd like the full source code zipped or deployed example!
+=======
+# TodoList_Aryaman
+TodoList For Productivity 
+>>>>>>> 725c679873228b63a43d02d65829f24478ffd85c
