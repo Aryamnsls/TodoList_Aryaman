@@ -93,7 +93,7 @@ const TodoApp = () => {
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
         <h1 style={{ fontStyle: 'italic', textDecoration: 'underline' }} className="text-3xl font-bold">
-  🎯 Aryaman SDE-1 TodoList
+  🎯 Aryaman TodoList
 </h1>
 
           <button
